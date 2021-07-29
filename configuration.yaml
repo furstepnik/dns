@@ -1,0 +1,3 @@
+udpAddress: 0.0.0.0:53
+tcpAddress: 0.0.0.0:53
+udpSize: 65535
