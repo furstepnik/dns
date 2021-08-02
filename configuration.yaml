@@ -1,3 +1,4 @@
-udpAddress: 0.0.0.0:53
-tcpAddress: 0.0.0.0:53
-udpSize: 65535
+addresses:
+  -0.0.0.0:53
+zones:
+  - {name: example.com, path: zones/example.com}
